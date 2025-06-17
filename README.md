@@ -57,21 +57,13 @@ Aqui você encontrará **resumos, anotações e dicas** que compilei durante os 
 
 ---
 
-## 📷 Capturas de Tela
-
-As imagens estão organizadas na pasta `/images` e mostram:
-
-1. Criação da VM
-2. Configuração do Log Analytics
-3. Criação do alerta
-4. Visualização dos alertas disparados
 
 ---
 
 ## 📚 Fontes e Materiais de Apoio
 
 - [Microsoft Learn: Monitoramento no Azure](https://learn.microsoft.com/pt-br/training/modules/monitor-azure-resources/)
-- [GitHub Docs](https://docs.github.com/)
+- [Ggithub-quickstart) (https://github.com/digitalinnovationone/github-quickstart?tab=readme-ov-file)
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ---
