@@ -83,6 +83,4 @@ As imagens estão organizadas na pasta `/images` e mostram:
 
 ---
 
-## 🔗 Licença
 
-Este projeto está licenciado sob a licença MIT.
